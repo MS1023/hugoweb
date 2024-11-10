@@ -1,8 +1,8 @@
 ---
 title: 测试
 description: 欢迎来到本站！
-slug: hello-world
-date: 2024-11-10 19:52
+slug: 测试
+date: 2024-11-10 19:56
 image: cover.jpg
 categories:
     - Example Category
