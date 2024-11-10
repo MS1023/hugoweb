@@ -1,4 +1,3 @@
----
 title: Links
 links:
   - title: GitHub
